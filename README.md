@@ -1,10 +1,10 @@
 # Cpp-and-Ethical-Hacking
 
-[C++ Basics]()
+[C++ Basics](https://github.com/Wvrmhat/Cpp-Basics.git)
 
 [KeyLogger](https://github.com/Wvrmhat/Keylogger.git)
 
-[Credential Harvesting]()
+[Credential Harvesting](https://github.com/Wvrmhat/Credential-Harvesting.git)
 
-[Reverse Shell]()
+[Reverse Shell](https://github.com/Wvrmhat/Reverse-Shell.git)
 
