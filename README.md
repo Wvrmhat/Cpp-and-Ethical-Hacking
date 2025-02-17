@@ -8,3 +8,5 @@
 
 [Reverse Shell](https://github.com/Wvrmhat/Reverse-Shell.git)
 
+[Port Scanner](https://github.com/Wvrmhat/Port-Scanner.git)
+
